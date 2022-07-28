@@ -1,0 +1,29 @@
+h1 {
+    color: brown;
+}
+
+* {
+  /*  border: solid;*/
+}
+
+.header{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+p{
+    color: white;
+}
+.sites{
+    display: flex;
+    justify-content: flex-end;
+}
+body{
+    background-color:#ffff00;
+}
